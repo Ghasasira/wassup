@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>332774292504-bplf7j0eqfctgq1c120cdpkpqejtksgf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.332774292504-bplf7j0eqfctgq1c120cdpkpqejtksgf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHvAU6_48Ttfj7v78g1X_WRFR4XgusHZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>332774292504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wassup</string>
+	<key>PROJECT_ID</key>
+	<string>wassup-b58e8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wassup-b58e8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:332774292504:ios:83f02193d065605e96d76d</string>
+</dict>
+</plist>
