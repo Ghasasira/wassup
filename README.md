@@ -81,8 +81,8 @@ This project is licensed under the MIT License.
 
 If you have any questions or feedback, please feel free to contact the project maintainers:
 
-- Your Name: Gasasira Joshua
-- Your Email: gasasiraj013@outlook.com
+- Gasasira Joshua
+- gasasiraj013@outlook.com
 - Project Repository: [GitHub Repository](https://github.com/Ghasasira/wassup-messenger)
 
 Thank you for using Wassup, and we hope it helps you stay connected with your friends and loved ones!
